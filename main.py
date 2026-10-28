@@ -7,4 +7,7 @@ def restar(a,b):
 def dividir(a,b):
     return a/b
 
+def multiplciar (a,b):
+    return a*b
+
 print(sumar(1,2))
